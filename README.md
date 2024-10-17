@@ -1,2 +1,7 @@
-# devnotes
- dev stuffs i'e learnt till date
+#  DEVELOPER LOGS
+
+## dev logs
+
+#### 2024-10-17
+
+- just watched a video on ow touse github -
