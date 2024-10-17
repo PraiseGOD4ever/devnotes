@@ -4,4 +4,4 @@
 
 #### 2024-10-17
 
-- just watched a video on ow touse github -
+- just watched a video on how to use github -
